@@ -408,7 +408,7 @@
                         </div>
                         <div class="latest-news-content">
                             <h3><a href="blog-details.html">Smart Classroom</a></h3>
-                            <p>A smart classroom is the state-of-the-art technology such as audio-visual systems and digital resources, these classrooms promote dynamic teaching methods.</p>
+                            <p>A smart classroom is the state-of-the-art technology such as audio-visual systems and digital resources, these classrooms promote dynamic teaching method.</p>
                         </div>
                     </div>
                 </div>
